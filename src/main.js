@@ -1,7 +1,5 @@
 import { getPhotos } from './js/pixabay-api';
 import { createMarkup } from './js/render-functions';
-import iziToast from 'izitoast';
-import 'izitoast/dist/css/iziToast.min.css';
 import cross from './img/error.svg';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
